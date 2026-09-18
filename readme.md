@@ -120,12 +120,6 @@ The AI is instructed to:
 
 ---
 
-## Repository Structure
-linkedin_content_creator_workflow_n8n/
-├── LinkedIn Workflow.json   # Main n8n workflow
-└── README.md                # This file
-text---
-
 ## Important Notes
 
 - The original workflow contains a hardcoded Tavily API key. Replace it with your own key before using.
