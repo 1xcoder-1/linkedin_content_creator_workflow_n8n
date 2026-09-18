@@ -133,7 +133,3 @@ text---
 - Make sure your OpenRouter account has access to `anthropic/claude-3.5-sonnet`.
 
 ---
-
-## License
-
-This project is free to use and modify.
